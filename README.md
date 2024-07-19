@@ -20,3 +20,7 @@
 ### Câmera: 2D Horizontal
 ### Controles e ações: Pular, Arremessar grampos e Escalar.
 
+## Inspirações
+![image](https://github.com/user-attachments/assets/988cc5ef-d4f9-4dda-8a9b-9e8407a001af)
+![image](https://github.com/user-attachments/assets/24f3fbf6-f8b2-430b-adbb-91cb5002243c)
+![image](https://github.com/user-attachments/assets/ca187798-a467-4319-9313-57342f67f020)
