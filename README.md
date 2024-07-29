@@ -1,4 +1,4 @@
-# Corporate Stapler 🏭
+# Corporate Stapler 🏭 (Jogo futuro após o teste da trilha Godot)
 
 ## Descrição: 
 ### Você é um grampeador corporativo que deseja sair da vida pacata e repetitiva da corporação. Criado e idealizado para única e específica função na qual você não teve escolha e não se sente bem fazendo, seu objetivo é fugir do uso humano para o mais próximo possível da vida exterior, e isso pode custar muito caro (talvez não para a companhia).
